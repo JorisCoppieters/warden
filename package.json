@@ -18,20 +18,20 @@
   "homepage": "https://github.com/JorisCoppieters/warden#readme",
   "dependencies": {
     "color-print": "^1.0.1",
-    "commander": "^2.17.1",
+    "commander": "^5.0.0",
     "fs-process": "^1.0.0",
-    "jest-changed-files": "^23.0.1",
+    "jest-changed-files": "^25.2.6",
     "minimist": "^1.2.3",
-    "modifiled": "^0.0.6"
+    "modifiled": "^0.1.2"
   },
   "devDependencies": {
     "@types/commander": "^2.12.2",
-    "@types/jest": "^23.3.2",
-    "@types/node": "^10.0.3",
-    "jest": "^23.6.0",
-    "ts-jest": "^23.1.4",
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.11.0",
+    "jest": "^25.2.7",
+    "ts-jest": "^25.3.1",
     "ts-node-dev": "^1.0.0-pre.21",
-    "typescript": "^2.8.3"
+    "typescript": "^3.8.3"
   },
   "scripts": {
     "build": "tsc",
