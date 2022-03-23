@@ -21,7 +21,7 @@
     "commander": "^5.0.0",
     "fs-process": "^1.0.0",
     "jest-changed-files": "^25.2.6",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "modifiled": "^0.1.2"
   },
   "devDependencies": {
